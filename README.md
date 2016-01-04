@@ -1,0 +1,2 @@
+# inventplan
+odoo inventory planning
